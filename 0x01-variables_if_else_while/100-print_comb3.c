@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - funtion to print combination of two numbers 
+ * main - function to print coombination of two numbers
  *
  * Return: 0 on success
  */
@@ -21,6 +21,7 @@ int main(void)
 				putchar(j);
 				if (i == '8' && j == '9')
 				{
+
 					putchar('\n');
 				}
 				else
